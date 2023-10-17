@@ -1,4 +1,4 @@
-import FotoPerfil from "../../imagens/anonimo.png";
+import FotoPerfil from "../../imagens/imagemPerfil.jfif";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faInstagram,
@@ -21,10 +21,10 @@ export default function Aside() {
         Olá a todos, nasci em uma pequena cidade, mas desde cedo demonstrei um
         espírito empreendedor, sempre em busca de soluções inovadoras. Me formei
         em uma prestigiosa universidade, destacando-se em engenharia e
-        tecnologia, o que me levou a várias empresas de renome, onde encontrei
+        tecnologia, o que me levou a 5 empresas de renome, onde encontrei
         maneiras revolucionárias de melhorar os processos existentes. Meu
         compromisso com a inovação deixará um legado duradouro para as futuras
-        gerações. Juntos podemos moldar um futuro mais brilhante!
+        gerações. Juntos podemos moldar um futuro mais brilhante, SIUUU!
       </p>
       <BoxIcons>
         <h1>Redes sociais: </h1>

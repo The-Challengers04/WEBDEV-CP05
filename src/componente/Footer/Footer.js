@@ -6,9 +6,9 @@ export default function Footer() {
 		<FooterContainer>
 			<Content>
 				<Section>
-					<Text>Sobre nós</Text>
+					<Text>Sobre mim</Text>
                     <Paragraph>
-                        Somos o TheChallengers, um grupo formado no início do ano letivo com a principal missão de ganhar o Festival do NEXT FIAP 2023.
+                        Posso não ser o melhor, mas na minha cabeça, eu sou o melhor. Temos que pensar que somos os melhores e vencer! É nisso que acredito e sempre busco melhorar, estou sempre em crescimento e isso me torna cada vez melhor.
                     </Paragraph>
 				</Section>
 				<Section>
@@ -23,13 +23,13 @@ export default function Footer() {
 				</Section>
 				<Section>
 					<Text>Contato</Text>
-					<Paragraph>Email: exemplo@TheChallengers.com</Paragraph>
+					<Paragraph>Email: exemplo@cristianoronaldo.com</Paragraph>
 					<Paragraph>Telefone: (99) 9999-9999</Paragraph>
 				</Section>
 			</Content>
 			<Copy>
 				<Paragraph>
-					Todos os direitos reservados a TheChallengers &copy; - 2023
+					Todos os direitos reservados a Cristiano Ronaldo &copy; - 2023
 				</Paragraph>
 			</Copy>
 		</FooterContainer>
@@ -43,10 +43,10 @@ const FooterContainer = styled.div`
 `;
 
 const Content = styled.div`
-	display: flex;
-	flex-wrap: wrap;
+	display: flex; 
 	justify-content: space-between;
-    gap:10px;
+    gap:100px;
+	margin: 20px;
 `;
 const Section = styled.div`
 	margin-bottom: 20px;

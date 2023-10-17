@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Header = () => {
 	return (
 		<HeaderContainer>
-			<Title>The Challengers</Title>
+			<Title>Cristiano Ronaldo</Title>
 			<Nav>
 				<ul>
 					<li>

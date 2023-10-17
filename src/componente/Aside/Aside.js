@@ -77,7 +77,7 @@ const BoxAside = styled.div`
 
 const BoxIcons = styled.div`
   h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     color: #515151;
   }
 

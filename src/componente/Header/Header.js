@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Header = () => {
 	return (
 		<HeaderContainer>
-			<Title>Meu portfólio</Title>
+			<Title>The Challengers</Title>
 			<Nav>
 				<ul>
 					<li>
